@@ -1,0 +1,42 @@
+.mac{
+    width: 70%;
+}
+.container{
+    margin: 20px;
+    padding: 10px;
+}
+.pic{
+    float: left;
+    width: 40%;
+    
+    box-sizing: border-box;
+
+}
+.text{
+    float: right;
+    width: 60%;
+    
+    box-sizing: border-box;
+}
+h1{
+    color: rgba(0, 0, 0, 0.854);
+}
+p{
+    color: gray;
+}
+#underline{
+    border-top: 2px solid black;
+    width: 50%;
+}
+.btn{
+    background-color: red;
+    color: white;
+    padding: 3px;
+    border-radius: 7px;
+    border: 1px solid red ;
+    
+}
+.underline-two{
+    border-top: 2px solid black;
+    width: 100%;
+}
